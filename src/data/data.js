@@ -1,6 +1,13 @@
 const data = [
   {
     id: Math.random(),
+    title: "converter-432hz",
+    category: "advanced",
+    img: "../assets/images/convert-432hz.png",
+    url: "https://converter-432hz.netlify.app/",
+  },
+  {
+    id: Math.random(),
     title: "sunflix",
     category: "advanced",
     img: "../assets/images/sunflix.png",
