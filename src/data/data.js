@@ -24,7 +24,7 @@ const data = [
     id: 26,
     title: "sunfilm",
     category: "advanced",
-    img: "../assets/images/16-sun-film.png",
+    img: "../assets/images/sunfilm2.png",
     url: "https://sunfilm.netlify.app",
   },
   {
